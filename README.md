@@ -1,1 +1,1 @@
-# challenge-picpay
+# challenge
